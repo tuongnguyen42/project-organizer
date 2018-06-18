@@ -1,7 +1,0 @@
-
-Tuong Nguyen
-Kelly Lam
-run from main
-
-user name: 123
-password: 123
